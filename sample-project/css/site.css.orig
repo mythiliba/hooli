@@ -13,7 +13,11 @@
             height: 100%;
             width: 100%;
             background-color: #1d539d;
-            color: white;
+<<<<<<< HEAD
+            color: blue;
+=======
+            color: red;
+>>>>>>> branch2
             padding-top: 6%;
             box-sizing: border-box;
             overflow-y: auto;
