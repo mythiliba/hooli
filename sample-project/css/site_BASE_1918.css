@@ -13,7 +13,7 @@
             height: 100%;
             width: 100%;
             background-color: #1d539d;
-            color: blue;
+            color: white;
             padding-top: 6%;
             box-sizing: border-box;
             overflow-y: auto;
@@ -23,13 +23,8 @@
 
         .cloud-image {
             width: 1200px;
-<<<<<<< HEAD
-            height: 300px;
-            padding-bottom: 50px;
-=======
             height: 250px;
-            padding-bottom: 150px;
->>>>>>> branch2
+            padding-bottom: 50px;
             margin: auto;
         }
 
